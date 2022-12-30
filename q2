@@ -1,0 +1,6 @@
+Create Regular Expressions that:
+a) Extract the complete timestamps from each line.
+b) Extract the complete e-mail address from each line.
+c) Extract only the months from the timestamps.
+d) Extract only the years from the timestamps.
+e) Extract only the time (HH:MM:SS) from the timestamps.
